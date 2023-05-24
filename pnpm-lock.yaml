@@ -20,6 +20,9 @@ importers:
       typescript:
         specifier: ^5.0.4
         version: 5.0.4
+      vue-tsc:
+        specifier: ^1.4.2
+        version: 1.4.2(typescript@5.0.4)
 
   packages/components: {}
 
